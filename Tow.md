@@ -49,6 +49,10 @@ War made him this way
 		- Used to being busy. The work here is so slow. No stress.
 	- Free time is wasted time.
 
+Should speak very directly. He was an officer.
+Everything is matter of fact. 
+But still philosophical?
+
 ## Space ship
 Small.
 
@@ -63,3 +67,5 @@ Lightyears flicked across the Fiasco's viewport, individual star's vibrant light
 It was an elegant system. 
 
 if heaven were to grant me a boon, I'd ask for this plot to be expunged from my mind.
+
+You'll be remembered for what you do, not how you do it. 
