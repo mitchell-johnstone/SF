@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.navigation {
+  margin: 6px 10px;
+}
+
+.navigation a {
+  background: linear-gradient(to right, #FFCC00, #FFCC00);
+  /* padding: 10px; /* Optional: Add padding for better button appearance */
+  /* color: #fff; /* Optional: Change text color for better contrast */
+  /* text-decoration: none; /* Optional: Remove underline from links */
+  /* display: inline-block; /* Optional: Ensure the element behaves like a button */
+  /* border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+.navigation a:hover {
+  background: linear-gradient(to right, #FFCC00, #FF9900); /* Optional: Change gradient on hover */
+}
+
