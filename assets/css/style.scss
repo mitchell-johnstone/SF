@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-.navigation {
-  margin-right: 10px;
+#header nav {
+  background-color: #00000000;
 }
 
 #header nav ul li a {
@@ -22,7 +22,6 @@
   background: linear-gradient(to right, #FFCC00, #FF9900); /* Optional: Change gradient on hover */
 }
 
-nav {
-  background-color: #00000000;
+.navigation {
+  margin-right: 10px;
 }
-
