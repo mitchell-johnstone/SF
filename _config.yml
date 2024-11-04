@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 mine:
-  current: "/Constellate"
+  home: "/SF/"
+  current: "/SF/Constellate"
