@@ -4,11 +4,13 @@
 @import "{{ site.theme }}";
 
 .navigation {
-  margin: 6px 10px;
+  margin: 6px 0px;
 }
 
-.navigation a {
+#header nav ul li a {
+  border: 1px solid #FFCC00;
   background: linear-gradient(to right, #FFCC00, #FFCC00);
+  background-color: #FFCC00;
   /* padding: 10px; /* Optional: Add padding for better button appearance */
   /* color: #fff; /* Optional: Change text color for better contrast */
   /* text-decoration: none; /* Optional: Remove underline from links */
