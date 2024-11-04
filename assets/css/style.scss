@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .navigation {
-  margin: 6px 0px;
+  margin-right: 10px;
 }
 
 #header nav ul li a {
@@ -23,6 +23,6 @@
 }
 
 nav {
-  background-color: #0000
+  background-color: #00000000;
 }
 
