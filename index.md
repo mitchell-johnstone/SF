@@ -4,4 +4,4 @@ One of them is bound to work out.
 Just gotta give it a go.
 
 Find out what I'm working on:
-- [Constellation Nation](./constellation_nation/index.md)
+- [Constellation Nation](./Constellate)
