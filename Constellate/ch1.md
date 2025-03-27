@@ -16,7 +16,20 @@ Fethi feigned innocence, "Awww, I was rather enjoying you describe the benevolen
 
 Eagm blinked the sleep away, then blinked away the dazed look from re-realizing that his hands were still bound behind him and in such a way as to keep his fingers spread. "He always seemed more bastardly," He yawned, "than benevolent."
 
-Fethi shook her head, "Why not both? At least the queen had more heirs."
+"Bastardly?" Fethi asked incredulously. "Ah, so how one grows up dictates one's actions? One's motivations? He couldn't help that he was born of the king but not in his house."
+
+"And as such, he should know the nobility as well as the peasants. It's in his blood. His very soul." By now he had struggled against gravity's hold enough to right himself, his fingertips brushing the grass and dirt. "A man of his nature should not stoop to such lows."
+
+
+
+"His soul is only remembered though and placed up among the others
+"
+
+
+"Kind deeds, you say? Tell me, kindest of souls, how you came to be tied up and brought in?
+
+
+
 
 
 
@@ -24,16 +37,13 @@ Fethi shook her head, "Why not both? At least the queen had more heirs."
 
 "Because he has the coin."
 
-"Fine, yes, but how can he dare show up late?"
+"Fine, yes, but how dare he show up late?"
 
 "Because he has the coin."
 
-After sleepless nights and meals with no meat, after starting at stars and wishing she could be there instead, she finally heard the hooves of a horse galloping their way.
+After sleepless nights and meals with no meat, after staring at stars and wishing she could be among them instead, she finally heard the hooves of a horse galloping their way.
 
 
-"
-They had passed two tollings and three meals around
-"No Risque, no reward, eh?"
 
 
 

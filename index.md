@@ -5,3 +5,5 @@ Just gotta give it a go.
 
 Find out what I'm working on:
 - [Constellate](./Constellate)
+- [FalseProphet](./FalseProphet)
+- [WhatsLeft](./WhatsLeft)
