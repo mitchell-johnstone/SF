@@ -4,9 +4,9 @@ One of them is bound to work out.
 Just gotta give it a go.
 
 Current Work in Progress:
-- [EMIT](./Emit)
+- [EMIT](./EMIT/)
 
 Future Ideas I'd like to work on:
-- [Constellate](./Constellate)
-- [FalseProphet](./FalseProphet)
-- [WhatsLeft](./WhatsLeft)
+- [Constellate](./Constellate/)
+- [FalseProphet](./FalseProphet/)
+- [WhatsLeft](./WhatsLeft/)
