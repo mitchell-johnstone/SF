@@ -29,3 +29,4 @@ The gunman thought, then looked stunned at realizing his life was the sum of 2 m
 "Sure. I think I'm missing notes from our last loop, because I'm missing the whole gun and shooting and insults, but the main priority now is getting you both caught up. Read this."
 
 
+

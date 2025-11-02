@@ -2,6 +2,8 @@
 
 > There's time enough to begin, if only you tried.
 
+## Version 1 (WIP)
+
 Three hands pressed into the emission docks; two more held Memori pens against their tablets, writing or about to be; the last absorbed a pistol's recoil as the shot enveloped the room. This has all happened before. This will happen again.
 
 The grip on the gun loosens as the holder realizes the tool he has, tightens when he questions his own intentions from just a second ago. He switches to a more comfortable grip with both hands, aim still locked on the victim. Head swivels to scan behind him.
@@ -25,14 +27,11 @@ A hand slams against the panel.
 
 -- EMIT --
 
+## Version 2 (attempt at something new)
 
-# Loop 2.0.0
+Transitioning back to a dimension outside of humanity's control, time flowed through the empty husks as they began to realize their conciousnesses. It took a moment to even begin; to go from emptiness complete to information overwhelming broke many a mind - even those practiced in it. It helped to focus, narrow, constrict to one fact at a time:
+  - The urge and repression of a behavioral tick.
+  - The ticking of a watch's third hand.
+  - The handling of the cold metal gun.
 
-Three hands pressed into the emission panel; two more held Memori pens against their tablets, writing or about to be; the last absorbed a pistol's recoil as the shot enveloped the room. This has all happened before. This will happen again.
-
-"Let's try that again."
-
-"Again?"
-
-"We have time enough to kill each other if need be, don't we? Why don't you keep a hold of that, for safe keeping, but we just talk for a moment."
-
+Each waking mind came to the last focal point in its own fashion. The first mind regarded the object as a weapon, a way to harm and stop. The second mind felt it's familiar form and hoped there was a reason they were using this specific tool. The last and third mind marked it as irrelevent, as the gun would not change what is.

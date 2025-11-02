@@ -1,5 +1,5 @@
 # Time Narrator?
-A bitter diety, angry they keep stealing from him.
+##### A bitter diety, angry they keep stealing from him
 --
 
 In the garden of stars that is the sky, Life strolled and Time paced. Their steps never tread on paths paved. Life asked of Time "What has you worried so?"
