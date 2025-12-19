@@ -7,13 +7,13 @@ What are you willing to leave behind?
 
 The countryside is a terrible place for a war, thought Stol. The ramifications of modern warfare conducted on such wide, flat terrain had eluded him. His only experience in the country (and any battle, for that matter) was attributed to watching Braveheart as a young man; he recalled feeling patriotic, empowered by freedom, full of life.
 
-Now he felt himself dying in his brothers' arms and thought it a ridiculous idea to want to die for a large, regardless of the size.
+Now he felt himself dying in his brothers' arms and thought it a ridiculous idea to want to die for a piece of land, regardless of the size.
 
 They were trying to talk to him, though their words were slurred and choppy and wrong, their speech too fast and overlapping.
 
 "... not okay. Not fucking okay. Are you..."
 
-"...shove him aside"
+"...shove him aside..."
 
 "...Goddamn truck, didn't..."
 
@@ -23,7 +23,7 @@ They were trying to talk to him, though their words were slurred and choppy and 
 
 "...like hell. Can..."
 
-"...They'll be here..."
+"...They'll be here in..."
 
 They were trying to run too, although of the 10 legs we started the day with, four were bloodied, two were wrapped in gauze, and one was missing altogether. Stol saw himself from far off, being dragged by two others, thinking of how bizarre an animal with 2 arms and 5 legs would run.
 
@@ -90,7 +90,7 @@ the endless anger at the enemy
 
 
 
-"oh, you mean these?" the bodies stand back up, walk to keat, join him.
+"oh, you mean these?" the bodies stand back up, walk to Keat, join him.
 "peculiar creatures..."
 
 "were all these theatrics really worth the time to make fun of him so?"

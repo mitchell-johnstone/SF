@@ -31,7 +31,7 @@ You emitted for a reason
     - Review Memori Pads to track new information from prior loops.
 
 ### Q&A
-> Are the beginnings / ends always the same?
+> Are the beginnings / ends of the jumps always the same?
 
 The beginning is always the same; the anchor point. The user defines the end; when the button to emit is pressed, the user returns. This means that different iterations through the loop could take different lengths.
 

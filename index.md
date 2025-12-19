@@ -10,3 +10,9 @@ Future Ideas I'd like to work on:
 - [Constellate](./Constellate/)
 - [FalseProphet](./FalseProphet/)
 - [WhatsLeft](./WhatsLeft/)
+
+Anger:
+- [Streets](./Short/streets.md)
+
+Short pieces I wanted to have fun with:
+- [The Taoist Gunslinger](./Short/taoist_gunslinger.md)
